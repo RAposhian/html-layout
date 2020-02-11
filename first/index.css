@@ -1,0 +1,33 @@
+#left {
+   float: left;
+   background-color: gray;
+   height: 900px;
+   width: 100px;
+   
+}
+
+#right {
+   float: right;
+   background-color: gray;
+   height: 900px;
+   width: 100px;
+}
+
+header {
+   background-color: rgb(51, 49, 49);
+   width: 100%;
+   height: 100px;
+}
+
+footer {
+   background-color: black;
+   width: 100%;
+   height: 100px;
+   clear: both;
+}
+
+body {
+   background-color: white;
+   height: 100%;
+   width: 100vh;
+}
